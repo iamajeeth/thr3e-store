@@ -54,9 +54,7 @@ h1{
 }
 p{
     font-size: 28px;
-    line-height: 6px;
-
+    line-height: 32px;
     color: #000000;
-
     opacity: 0.6;
 }
