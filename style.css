@@ -41,7 +41,7 @@ main{
     color: #000;
     }
 .vector{
-    position: absolute;
+    position: relative;
     width: 50%;
     height: 50%;
     left: 45%;
